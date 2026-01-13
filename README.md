@@ -15,7 +15,7 @@ The script:
 
 ## Folder Structure Used
 
-automation_task/
+media_system_automation/
 │
 ├── input/
 │ ├── data.txt
@@ -136,10 +136,3 @@ This project prioritizes clarity, reliability, and safe automation practices.
 It reflects how real-world automation systems are designed to handle unexpected input gracefully while remaining easy to maintain and extend.
 
 ---
-
-## 📦 `requirements.txt`
-
-```txt
-# No external dependencies required
-# Uses only Python standard library
-```
