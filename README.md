@@ -14,7 +14,7 @@ The script:
 ---
 
 ## Folder Structure Used
-
+```
 media_system_automation/
 │
 ├── input/
@@ -30,7 +30,7 @@ media_system_automation/
 │
 ├── automation.py
 └── README.md
-
+```
 
 ---
 
