@@ -1,0 +1,4 @@
+Text files count: 2
+Total text lines: 5
+Total text size (bytes): 124
+Images count: 2
