@@ -1,5 +1,5 @@
 
-# Automation & Python Intern – Practical Assignment
+# Python Automation
 
 ## Overview
 This project is a small, safe, and structured automation system built using Python.  
